@@ -1,0 +1,16 @@
+
+--- Profiles ---
+1: Alice | Interests: ['music', 'sports']
+2: Bob | Interests: ['coding', 'music']
+3: Charlie | Interests: ['travel', 'sports']
+4: David | Interests: ['travel', 'coding']
+5: Eve | Interests: ['travel', 'music']
+
+--- Shortest Path (1 -> 4) ---
+[1, 2, 4]
+
+--- DFS Depth 2 from 1 ---
+[1, 2, 4, 3, 5]
+
+--- Recommendations for 1 ---
+[(5, 1)]
