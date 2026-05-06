@@ -1,0 +1,6 @@
+Dynamic Array: [0, 1, 2, 3, 4]
+SLL: [1, 2, 3]
+DLL: [10, 20]
+Stack Pop: 20
+Queue Dequeue: 1
+Balanced '{[()]}': True
